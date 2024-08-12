@@ -1,0 +1,21 @@
+/* Styles for the OrderHistory component */
+.order-history-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .order-history {
+    margin-bottom: 15px;
+  }
+  
+  .order-history label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .order-history p {
+    margin: 0;
+  }  

@@ -1,0 +1,9 @@
+/* Styles for the product-related components */
+/* Define styles specific to the product-related components here */
+/* Example styles */
+.product-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    padding: 15px;
+    background-color: #f9f9f9;
+  }  

@@ -1,0 +1,8 @@
+/* Common styles used across multiple components */
+/* Define common styles that are shared among different components */
+/* Example styles */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }  

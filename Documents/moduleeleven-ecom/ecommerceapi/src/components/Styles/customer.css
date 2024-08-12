@@ -1,0 +1,9 @@
+/* Styles for the customer-related components */
+/* Add styles specific to the customer-related components here */
+/* Example styles */
+.customer-form {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }  

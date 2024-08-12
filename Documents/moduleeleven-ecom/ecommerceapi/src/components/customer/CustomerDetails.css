@@ -1,0 +1,21 @@
+/* Styles for the CustomerDetails component */
+.customer-details-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .customer-details {
+    margin-bottom: 15px;
+  }
+  
+  .customer-details label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .customer-details p {
+    margin: 0;
+  }  
